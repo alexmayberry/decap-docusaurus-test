@@ -6,10 +6,10 @@ tags:
   - docusaurus
   - test-tag
 authors:
-  name: Gao Wei
-  title: Docusaurus Core Team
-  url: https://github.com/wgao19
-  image_url: https://github.com/wgao19.png
+  name: Alex Mayberry
+  title: The Climate Tech Handbook
+  url: https://github.com/alexmayberry
+  image_url: https://avatars.githubusercontent.com/u/51015213?s=96&v=4
 ---
 This is an example of a blog post that was written using the decap CMS editor!
 
