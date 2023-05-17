@@ -1,0 +1,15 @@
+---
+title: Indeed Alex is the Decap King!
+slug: awesome-alex
+tags:
+  - awesome
+  - alex
+authors:
+  - name: Jake Rake
+    title: Duke of Earl
+    url: example.com
+    imageUrl: https://i.pinimg.com/474x/42/71/6e/42716e381e760d14b3b22d2abcdbea5f--baking-ideas-youtubers.jpg
+---
+He sure is!
+
+![](/img/78472919-awesome-businessman-two-like-gesture-thumb-up.jpg)
