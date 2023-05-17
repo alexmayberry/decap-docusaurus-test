@@ -1,18 +1,20 @@
 ---
-title: First Blog Post
-slug: first-blog-post
+title: Alex has mastered decap!!!
+slug: cms-engaged
 tags:
   - hola
   - docusaurus
+  - test-tag
 authors:
   name: Gao Wei
   title: Docusaurus Core Team
   url: https://github.com/wgao19
   image_url: https://github.com/wgao19.png
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet
+This is an example of a blog post that was written using the decap CMS editor!
 
 **The *web*:**
+
 ```
 <html>
 
