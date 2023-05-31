@@ -1,5 +1,5 @@
 ---
-title: Alex has mastered decap!!!
+title: decap is live
 slug: cms-engaged
 tags:
   - hola
@@ -12,6 +12,8 @@ authors:
   image_url: https://avatars.githubusercontent.com/u/51015213?s=96&v=4
 ---
 This is an example of a blog post that was written using the decap CMS editor! !
+
+TEST TEST, unapproved editor here via open-authoring!!
 
 **The *web*:**
 
