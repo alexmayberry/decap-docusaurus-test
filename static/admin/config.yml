@@ -2,6 +2,7 @@ backend:
   name: github
   branch: main 
   repo: alexmayberry/decap-docusaurus-test
+  open_authoring: true
 
 # These lines should *not* be indented
 publish_mode: editorial_workflow
