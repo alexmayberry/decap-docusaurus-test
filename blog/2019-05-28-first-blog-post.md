@@ -13,6 +13,10 @@ authors:
 ---
 This is an example of a blog post that was written using the decap CMS editor! !
 
+
+
+TEST TEST, unapproved editor here via open-authoring!
+
 **The *web*:**
 
 ```
